@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project name="ankitstha/device_oneplus_guacamole" path="device/oneplus/guacamole" revision="everest" remote="github" />
+    <project name="ankitstha/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" revision="everest" remote="github" />
+    <project name="yaap/vendor_oneplus_guacamole" path="vendor/oneplus/guacamole" revision="fourteen" remote="github" />
+    <project name="ankitstha/vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" revision="fourteen" remote="github" />
+    <project name="ankitstha/Neptune_kernel_sm8150_oneplus" path="kernel/oneplus/sm8150" revision="inline-erofs" remote="github" />
+    <project name="ankitstha/hardware_oneplus" path="hardware_oneplus" revision="fourteen" remote="github" />
+
+</manifest>
